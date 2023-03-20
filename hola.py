@@ -1,4 +1,4 @@
-a=5/2
+a=5/2 #esto es un ejemplo
 print (f"hola {a}")
 
 rica=int (input ("ingrese edad de la hembra: "))
